@@ -3,7 +3,7 @@ The data in countystatus.json is a snapshot from 9/1/2020.  This appears to be a
 
 You can however create a crontab job that runs the following:  `wget https://covid19.ca.gov/countystatus.json` as long as countystatus.json and index.html reside in the same directory you should be good to go.
 
-You will need to enable the Geocoding API to use this.
+You will need to enable Google's Geocoding API to use this.
 
 ![ca-covid-map application screenshot](https://github.com/Paul-Hoke/ca-covid-map/blob/master/ca-covid-map-screenshot.PNG "Screenshot")
 
