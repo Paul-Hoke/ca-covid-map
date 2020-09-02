@@ -3,4 +3,4 @@ The data in countystatus.json is a snapshot from 9/1/2020.  This appears to be a
 
 This can be hosted on any webserver.  Simply create a cronjob - `wget https://covid19.ca.gov/countystatus.json` to update the data and you are good to go.
 
-![ca-covid-map application screenshot](ca-covid-map-screenshot.png?raw=true "Screenshot")
+![ca-covid-map application screenshot](https://github.com/Paul-Hoke/ca-covid-map/blob/master/ca-covid-map-screenshot.PNG "Screenshot")
